@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/millionare/static/css/main.54f143ed.css",
+    "main.js": "/millionare/static/js/main.07a9d371.js",
+    "static/js/845.d9354a39.chunk.js": "/millionare/static/js/845.d9354a39.chunk.js",
+    "static/media/bg.jpg": "/millionare/static/media/bg.c829c71c2e90b8d231b3.jpg",
+    "static/media/play.mp3": "/millionare/static/media/play.8e5f6d1d81d4e1414b95.mp3",
+    "static/media/correct.mp3": "/millionare/static/media/correct.160572d72c858155072e.mp3",
+    "static/media/wrong.mp3": "/millionare/static/media/wrong.e946821894ae9b0a0d6f.mp3",
+    "static/media/bg2.jpg": "/millionare/static/media/bg2.dfb166e752bdf61900a9.jpg",
+    "index.html": "/millionare/index.html",
+    "main.54f143ed.css.map": "/millionare/static/css/main.54f143ed.css.map",
+    "main.07a9d371.js.map": "/millionare/static/js/main.07a9d371.js.map",
+    "845.d9354a39.chunk.js.map": "/millionare/static/js/845.d9354a39.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54f143ed.css",
+    "static/js/main.07a9d371.js"
+  ]
+}
